@@ -627,5 +627,16 @@ header{
 
 /* project */
 
+.project-12{
+    width: 200px;
+    height: 240px;
+    text-align: center;
+    padding: 0 12px;
+}
+
+.project-12 img{
+    width: 173px;
+}
+
 
 
