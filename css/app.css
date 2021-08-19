@@ -442,6 +442,11 @@ header{
     
     padding-top: 35px;
 }  
+.main-khung{
+    width: 1350px;
+    margin: auto;
+}
+
 
 .main-screen .main-right img{
     height: 115px;
@@ -608,6 +613,7 @@ header{
     padding: 12px 20px;
     display: flex;
     justify-content: space-between;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .flash-sale img{
@@ -617,3 +623,6 @@ header{
     text-decoration: none;
     color: #f16c51;
 }
+
+
+/* project */
