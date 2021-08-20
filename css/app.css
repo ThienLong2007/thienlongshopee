@@ -522,6 +522,77 @@ header{
    
 }
 
+/* super sale */
+
+.super-sale{
+    width: 1200px;
+    margin: auto;
+    background-color: #ff4802;
+    height: 430px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.bg-super-sale{
+    background-color: #ffebda;
+    width: 1166px;
+    height: 270px;
+    margin: auto;
+    
+    
+}
+.title-super-sale{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+}
+
+.title-super-sale h1{
+    font-size: 16px;
+    color: #ff4802;
+}
+.title-super-sale a{
+    color: #ff4802;
+    font-size: 14px;
+}
+
+.super-sale-product{
+    width: 572px;
+    float: left;
+    margin-left: 11px;
+}
+
+.super-sale-product a{
+    text-decoration: none;
+    float: left;
+    margin-right: 1px;
+}
+.product-sl-3{
+    width: 186px;
+    height: 235px;
+    background-color: white;
+}
+
+.img-pr-sl{
+    width: 190.3px; 
+    height: 180px;
+    background-position: center;
+}
+
+.price{
+    text-align: center;
+    margin-top: 12px;
+    font-size: 16px;
+    color: #ff4802;
+    
+}
+
+.product-sl-3 .price span{
+    font-size: 12px; 
+    margin-right: 5px;
+}
+
+
 /* category */
 
 .category{
